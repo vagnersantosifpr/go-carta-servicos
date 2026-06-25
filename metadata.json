@@ -1,0 +1,6 @@
+{
+  "name": "Carta de Serviços do Setor",
+  "description": "Leitura de e-mails institucionais para catalogar os serviços realizados pelo setor e elaborar uma Carta de Serviços oficial utilizando inteligência artificial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
